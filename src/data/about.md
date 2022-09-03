@@ -1,11 +1,11 @@
 
 # Intro
 
-This is something else. 
+I am a software and data engineer with a background in classical music. I am also experienced in the VC fundraising process from a data perspective; I help startups visualize their financial trajectories and present them in the most attractive light to VCs. I nuderstand what VCs look for when it comes to data and how important it is to use data to make a good first impression.
 
 # Currently
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+At inate, I have learned how to collaborate with my team members, engage with clients and meet deadlines. I primarily work as a data engineer within a Flask and Microservices framework but have broad expereince across inate's stack from front to back. 
 
 # Some history
 
