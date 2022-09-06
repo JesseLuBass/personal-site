@@ -1,10 +1,10 @@
 # Intro
 
-I am a software and data engineer with a background in classical music. I am also experienced in the VC fundraising process from a data perspective; I help startups visualize their financial trajectories and present them in the most attractive light to VCs. I nuderstand what VCs look for when it comes to data and how important it is to use data to make a good first impression.
+I am a software and data engineer with a background in classical music. I am also experienced in the VC fundraising process from a data perspective; I help startups visualize their financial trajectories and present them in the most attractive light to VCs. I understand what VCs look for when it comes to data and how important it is to use data to make a good first impression.
 
 # Currently
 
-At inate, I have learned how to collaborate with my team members, engage with clients and meet deadlines. I primarily work as a data engineer within a Flask and Microservices framework but have broad expereince across inate's stack from front to back. 
+At inate.ai, I have learned how to collaborate with my team members, engage with clients and meet deadlines. I primarily work as a data engineer within a Flask and Microservices framework but have broad expereince across inate's stack from front to back. 
 
 # Some history
 

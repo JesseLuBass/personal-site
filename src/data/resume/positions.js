@@ -5,11 +5,11 @@ const positions = [
     link: 'https://inate.ai',
     daterange: 'August 2021 - Present',
     points: [
-      'Built 5 production, real-time, end-to-end data ingestion pipelines for payment processors and accounting platforms',
+      'Built 5 production, real-time, end-to-end data ingestion pipelines for payment processors and accounting platforms. Built out Oauth 2.0 flow in the frontend for authentication and interfaced with GraphQL and REST frameworks for data',
       'Spec out RDS Postgres databases with Mutli-AZ failovers, VPCs and regular mainenance. Consolidated database instances and cut down AWS RDS cost by 50% while reducing down time',
-      'Built and standardnized Microservices and containerization within AWS ECS. Removed bottlenecks within the data ingestion process and increased speed by 60% with database indexing and ORM imprvements',
-      'Successfully onboarded more than 50 clients and created Financial dashboard and diligence reports for their companies',
-      'Created wide array of complex visualizations for financial and engagement metrics for VC fundraising purposes',
+      'Built and standardnized Microservices and containerization within AWS ECS. Removed bottlenecks within the data ingestion process and increased speed by 60% with database indexing and ORM imprvements. This also led to 4 times faster deployment cycles for data microservices',
+      'Successfully onboarded more than 50 clients and created Financial dashboard and diligence reports for their companies; gained thorough understanding of different business models and revenue recognition with CAC-LTV,Churn, etc',
+      'Created wide array of complex visualizations for financial and engagement metrics for VC fundraising purposes. Improved existing graphs with relevant functionalities such as Cohort Analysis and User Categorisation',
     ],
   },
   {
@@ -18,11 +18,12 @@ const positions = [
     link: 'https://www.linkedin.com/in/jerry-liu-2b4872161/',
     daterange: 'April 2021 - August 2021',
     points: [
-      'Achieved state-of-the-art, 3% MAE result for predictve Vancouver real estate evaluation with Machine Learning',
-      'Trained and compared more than 30 different ML and FNN models for maximum accuracy',
-      'Created ETL data pipeline with real-time Paragon-MLS database, based on 96,800 existing real estate listings',
-      'Work closely with clients and manager to define KPIs and engagement tracking with Mixpanel and Hubspot',
-      'Deployed the model and data visualization as a landing page campaign for the company',
+      'Achieved state-of-the-art, 3% MAE result for predictve Vancouver real estate evaluation with Random Forest ensemble method',
+      'Trained and compared more than 30 different ML and FNN models for maximum accuracy and deployed Extra trees regressor due to its explainability with Feature Importance and limitation of response speed as a Single Page Application',
+      'Created data pipeline with real-time Paragon-MLS database to populate the trainning and validation data sets with 65,000 real estate listings in Vancouver. Extracted important features, augmented location data with City of Vancouver datasets, and transformed real estate features into formats suitable for Machine Learning ',
+      'Used natural language processing tools such as Financial BERT to perform sentiment analysis on Realtor remarks for listings. This created a never-seen-before type of categorical data that could be useful to help realtor create better copies for their listings',
+      'Work closely with clients and manager to define the value of the predictive model as an interactive landing page tool for realtors acquiring new clients; The impartiality of a machine learning model also serves to establish trust with the clients. Implemented Mixpanel tracking and Hubspot service pipelines and email sequences for ongoing customer engagement',
+      'Deployed the model as a single page application, with interactive features so that the user could custom-define every aspect of the property for a price prediction; used data visualization to better explain and situate the prediction result',
     ],
   },
   {
